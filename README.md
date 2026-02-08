@@ -14,4 +14,4 @@ El objetivo de este proyecto fue desarrollar un juego interactivo donde el usuar
 
 <h1>🕹️Quieres probar este interesante juego.</h1>
 
-**Presiona <kbd>[Aqui](https://boris-rv.github.io/Juego-Secreto/)</kbd> para echarle una vista.**
+**👉 Presiona <kbd>[Aqui](https://boris-rv.github.io/Juego-Secreto/)</kbd> para verlo en acción.**
